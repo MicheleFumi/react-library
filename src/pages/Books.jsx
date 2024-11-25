@@ -4,19 +4,11 @@ export default function () {
 
     return (
         <>
-            <header>
-                <div className="logo">
-                    LOGO
-                </div>
-                <MainMenu />
-            </header>
-            <main>
-                <div>books!</div>
 
-            </main>
-            <footer>
-                footer by
-            </footer>
+
+            <div>books!</div>
+
+
         </>
 
     )
