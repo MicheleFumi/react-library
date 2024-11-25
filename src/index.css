@@ -18,6 +18,11 @@ header {
     margin-right: 1rem;
     text-decoration: none;
     color: white;
+
+    &.active {
+      text-decoration: underline;
+      color: rgb(0, 208, 255);
+    }
   }
 }
 

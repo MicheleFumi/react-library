@@ -1,3 +1,5 @@
+import MainMenu from "../components/MainMenu";
+
 export default function () {
 
     return (
@@ -6,12 +8,7 @@ export default function () {
                 <div className="logo">
                     LOGO
                 </div>
-                <nav>
-                    <a href="/">Home</a>
-                    <a href="/About">About</a>
-                    <a href="/Books">Books</a>
-                    <a href="/Contacts">Contacts</a>
-                </nav>
+                <MainMenu />
             </header>
             <main>
                 <div>ciao!</div>
