@@ -38,3 +38,9 @@ footer {
   color: white;
   justify-content: space-between;
 }
+
+.container {
+  width: 80%;
+  margin: auto;
+  margin-top: 2rem;
+}
